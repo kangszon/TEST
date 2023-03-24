@@ -1,0 +1,1 @@
+print("hanbat" in "hanbat dfsv")
